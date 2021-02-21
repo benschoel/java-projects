@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ip\ port
+comment0.target=void\ connect(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ shutdown()
+numComments=2

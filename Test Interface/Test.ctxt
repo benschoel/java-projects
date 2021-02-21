@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getTopic()
+comment1.params=pointsCorrect\ pointsIncorrect
+comment1.target=void\ setPointsPerQuestion(double,\ double)
+comment2.params=correctResponses\ incorrectResponses
+comment2.target=double\ calculateScore(int,\ int)
+numComments=3

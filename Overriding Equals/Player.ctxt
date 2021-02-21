@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ readPlayer()
+comment1.params=
+comment1.target=java.lang.String\ getTeam()
+comment2.params=
+comment2.target=int\ getJerseyNumber()
+comment3.params=o
+comment3.target=int\ compareTo(java.lang.Object)
+numComments=4

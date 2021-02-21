@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrinkMachine()
+comment1.params=
+comment1.target=void\ getTemp()
+comment2.params=
+comment2.target=void\ tellPrice()
+comment3.params=
+comment3.target=void\ getMoney()
+comment4.params=
+comment4.target=void\ completeTransaction()
+comment5.params=
+comment5.target=java.lang.String\ getChange()
+comment6.params=val\ x\ y
+comment6.target=boolean\ isBetween(double,\ int,\ int)
+numComments=7

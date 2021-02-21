@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=BenSync(java.net.Socket)
+comment1.params=
+comment1.target=void\ startStreaming()
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=d\ c
+comment3.target=void\ on(java.lang.String,\ BenCommand)
+comment4.params=r\ data
+comment4.target=void\ respond(Request,\ java.lang.Object)
+comment5.params=x\ mess
+comment5.target=void\ respondWithFailure(Request,\ java.lang.String)
+comment6.params=dtype\ d
+comment6.target=Request\ request(java.lang.String,\ java.lang.Object)
+numComments=7

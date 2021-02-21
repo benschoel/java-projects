@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=inputSize\ outputSize
+comment0.target=Layer(int,\ int)
+comment1.params=
+comment1.target=void\ initWeights()
+comment2.params=inputArray
+comment2.target=float[]\ run(float[])
+comment3.params=error\ learningRate\ momentum
+comment3.target=float[]\ train(float[],\ float,\ float)
+numComments=4

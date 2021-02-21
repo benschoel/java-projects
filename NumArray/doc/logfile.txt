@@ -1,0 +1,35 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/Ben/Desktop/Google Drive/Comp Sci/Q2/NumArray
+-d
+/Users/Ben/Desktop/Google Drive/Comp Sci/Q2/NumArray/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/Ben/Desktop/Google Drive/Comp Sci/Q2/NumArray/NumArray.java
+<---- end of javadoc command ---->
+Loading source file /Users/Ben/Desktop/Google Drive/Comp Sci/Q2/NumArray/NumArray.java...
+/Users/Ben/Desktop/Google Drive/Comp Sci/Q2/NumArray/NumArray.java:9: error: ';' expected
+        System.out.println(nums)l
+                                ^
+/Users/Ben/Desktop/Google Drive/Comp Sci/Q2/NumArray/NumArray.java:9: error: ';' expected
+        System.out.println(nums)l
+                                 ^
+2 errors

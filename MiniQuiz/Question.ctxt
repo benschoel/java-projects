@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=query\ result
+comment0.target=Question(java.lang.String,\ java.lang.String)
+comment1.params=level
+comment1.target=void\ setComplexity(int)
+comment2.params=
+comment2.target=int\ getComplexity()
+comment3.params=
+comment3.target=java.lang.String\ getQuestion()
+comment4.params=
+comment4.target=java.lang.String\ getAnswer()
+comment5.params=candidateAnswer
+comment5.target=boolean\ answerCorrect(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

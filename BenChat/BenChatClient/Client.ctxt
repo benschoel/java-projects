@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=host\ port
+comment0.target=Client(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ setupScreen()
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ connect()
+comment5.params=req
+comment5.target=void\ run(Request)
+comment6.params=r
+comment6.target=void\ run(Request)
+comment7.params=r
+comment7.target=void\ run(Request)
+comment8.params=s
+comment8.target=void\ showMessage(java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

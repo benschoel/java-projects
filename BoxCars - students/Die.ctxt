@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Die()
+comment1.params=faces
+comment1.target=Die(int)
+comment2.params=
+comment2.target=int\ roll()
+comment3.params=
+comment3.target=int\ getFaceValue()
+numComments=4

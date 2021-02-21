@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=APStudent()
+comment1.params=first\ last
+comment1.target=APStudent(java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=int\ numberOfFives()
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment4.params=f
+comment4.target=void\ setFirstName(java.lang.String)
+comment5.params=l
+comment5.target=void\ setLastName(java.lang.String)
+comment6.params=
+comment6.target=java.util.ArrayList\ getExams()
+comment7.params=a
+comment7.target=void\ addExam(APExam)
+comment8.params=
+comment8.target=double\ computeExamAverage()
+comment9.params=
+comment9.target=int\ findHighestExamScore()
+numComments=11

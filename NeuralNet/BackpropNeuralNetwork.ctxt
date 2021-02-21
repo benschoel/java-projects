@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=inputSize\ hiddenSize\ outputSize
+comment0.target=BackpropNeuralNetwork(int,\ int,\ int)
+comment1.params=input
+comment1.target=float[]\ run(float[])
+comment2.params=input\ targetOutput\ learningRate\ momentum
+comment2.target=void\ train(float[],\ float[],\ float,\ float)
+numComments=3

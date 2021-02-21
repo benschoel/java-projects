@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=make\ model\ maxSpeed
+comment0.target=Car(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ drive()
+comment2.params=gas
+comment2.target=int\ fillUp(int)
+comment3.params=
+comment3.target=int\ getMaxSpeed()
+comment4.params=obj
+comment4.target=int\ compareTo(java.lang.Object)
+numComments=5

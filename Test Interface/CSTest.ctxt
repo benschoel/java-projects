@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=t\ numOfQ
+comment0.target=CSTest(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getTopic()
+comment2.params=pointsCorrect\ pointsIncorrect
+comment2.target=void\ setPointsPerQuestion(double,\ double)
+comment3.params=correctResponses\ incorrectResponses
+comment3.target=double\ calculateScore(int,\ int)
+numComments=4

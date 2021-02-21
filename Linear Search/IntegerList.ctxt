@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=IntegerList(int)
+comment1.params=
+comment1.target=void\ randomize()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=target
+comment3.target=int\ linearSearch(int)
+numComments=4

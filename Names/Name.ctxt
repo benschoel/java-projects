@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=f\ m\ l
+comment0.target=Name(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getFirst()
+comment2.params=
+comment2.target=java.lang.String\ getMiddle()
+comment3.params=
+comment3.target=java.lang.String\ getLast()
+comment4.params=
+comment4.target=java.lang.String\ firstMiddleLast()
+comment5.params=
+comment5.target=java.lang.String\ lastFirstMiddle()
+comment6.params=otherName
+comment6.target=boolean\ same(Name)
+comment7.params=
+comment7.target=java.lang.String\ initials()
+comment8.params=
+comment8.target=int\ len()
+numComments=9

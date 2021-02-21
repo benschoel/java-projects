@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CoinPurse()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ CoinPurse\n
+comment1.params=c
+comment1.target=void\ addCoin(Coin)
+comment1.text=\nadds\ Coin\ c\ to\ the\ CoinPurse\ \n
+comment2.params=c
+comment2.target=void\ removeCoin(Coin)
+comment2.text=\nremoves\ Coin\ c\ from\ the\ CoinPurse\ \n
+comment3.params=
+comment3.target=int\ count()
+comment3.text=\ncounts\ the\ number\ of\ coins\ in\ the\ CoinPurse\ \n
+comment4.params=
+comment4.target=double\ total()
+comment4.text=\nreturns\ the\ total\ values\ of\ all\ coins\ in\ the\ CoinPurse\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\nPrints\ the\ vName\ of\ each\ Coin\ stored\ in\ the\ CoinPurse\ \n
+numComments=6
